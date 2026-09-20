@@ -51,8 +51,8 @@ I develop and integrate full-stack ADAS solutions, from raw sensor data processi
 
 I'm always interested in collaborating on ADAS, autonomous driving, and robotics projects. Feel free to reach out!
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kausik-giri-7340252b0/)
+- 📧 **Email:** [my mail id](mailto:girikausik14@gmail.com)
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/kausik-giri-7340252b0/)
 - 🔗 **Personal Website/Portfolio:** [Coming Soon]
 
 ---
